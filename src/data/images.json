@@ -1,0 +1,32 @@
+{
+  "E1_001": [
+    "./img/products/E1_001_01.png",
+    "./img/products/E1_001_02.png"
+  ],
+  "E1_002": [
+    "./img/products/E1_002_01.png",
+    "./img/products/E1_002_02.png"
+  ],
+  "E1_003": [
+    "./img/products/E1_003_01.png"
+  ],
+  "R1_001": [
+    "./img/products/R1_001_01.png",
+    "./img/products/R1_001_02.png"
+  ],
+  "R1_002": [
+    "./img/products/R1_002_01.png"
+  ],
+  "F1_001": [
+    "./img/products/F1_001_01.png",
+    "./img/products/F1_001_02.png",
+    "./img/products/F1_001_03.png"
+  ],
+  "F1_002": [
+    "./img/products/F1_002_01.png",
+    "./img/products/F1_002_02.png"
+  ],
+  "D1_001": [
+    "./img/products/D1_001_01.png"
+  ]
+}

@@ -1,0 +1,282 @@
+[
+  {
+    "product_code": "E1_001",
+    "category": {
+      "mn": "Ээмэг",
+      "en": "Earrings"
+    },
+    "product_name": {
+      "mn": "Сувдан дусал ээмэг",
+      "en": "Pearl drop earrings"
+    },
+    "description": {
+      "mn": "Цэвэр мөнгөн дэгээ, байгалийн цэнгэг усны сувд.",
+      "en": "Sterling silver hooks with freshwater pearls."
+    },
+    "pricing": {
+      "Material (₮)": 18000,
+      "Handwork (₮)": 17000,
+      "Total Price (₮)": 35000,
+      "Making Time (h)": 3
+    },
+    "craft_details": {
+      "Main Material": {
+        "mn": "925 сорьцын мөнгө, цэнгэг усны сувд",
+        "en": "925 sterling silver, freshwater pearl"
+      },
+      "Origin": {
+        "mn": "Улаанбаатар студи",
+        "en": "Ulaanbaatar Studio"
+      },
+      "Care Instruction": {
+        "mn": "Ус, үнэртэй уснаас хол хуурай хайрцагт хадгална",
+        "en": "Keep dry away from perfume and water"
+      }
+    }
+  },
+  {
+    "product_code": "E1_002",
+    "category": {
+      "mn": "Ээмэг",
+      "en": "Earrings"
+    },
+    "product_name": {
+      "mn": "Утсан бөмбөлөг ээмэг",
+      "en": "Woven thread ball earrings"
+    },
+    "description": {
+      "mn": "Гараар сүлжсэн хөнгөн, олон өнгийн утсан ээмэг.",
+      "en": "Light, hand-woven earrings in many colours."
+    },
+    "pricing": {
+      "Material (₮)": 6000,
+      "Handwork (₮)": 12000,
+      "Total Price (₮)": 18000,
+      "Making Time (h)": 2
+    },
+    "craft_details": {
+      "Main Material": {
+        "mn": "Хөвөн утас, харшил өгөхгүй дэгээ",
+        "en": "Cotton thread, hypoallergenic hook"
+      },
+      "Origin": {
+        "mn": "Улаанбаатар студи",
+        "en": "Ulaanbaatar Studio"
+      },
+      "Care Instruction": {
+        "mn": "Зөөлөн сойзоор цэвэрлэнэ",
+        "en": "Clean gently with a soft brush"
+      }
+    }
+  },
+  {
+    "product_code": "E1_003",
+    "category": {
+      "mn": "Ээмэг",
+      "en": "Earrings"
+    },
+    "product_name": {
+      "mn": "Хатаасан цэцэгт ээмэг",
+      "en": "Pressed flower earrings"
+    },
+    "description": {
+      "mn": "Хатаасан жижиг цэцгийг давирхайд бэхэлсэн.",
+      "en": "Tiny dried flowers set in clear resin."
+    },
+    "pricing": {
+      "Material (₮)": 10000,
+      "Handwork (₮)": 18000,
+      "Total Price (₮)": 28000,
+      "Making Time (h)": 4
+    },
+    "craft_details": {
+      "Main Material": {
+        "mn": "Байгалийн хатаасан цэцэг, эпокси давирхай",
+        "en": "Dried wildflowers, UV epoxy resin"
+      },
+      "Origin": {
+        "mn": "Улаанбаатар студи",
+        "en": "Ulaanbaatar Studio"
+      },
+      "Care Instruction": {
+        "mn": "Нарны шууд тусгалаас хол хадгална",
+        "en": "Avoid prolonged direct sunlight"
+      }
+    }
+  },
+  {
+    "product_code": "R1_001",
+    "category": {
+      "mn": "Бөгж",
+      "en": "Rings"
+    },
+    "product_name": {
+      "mn": "Мөнгөн утсан бөгж",
+      "en": "Silver wire ring"
+    },
+    "description": {
+      "mn": "925 мөнгөн утсыг гараар мушгиж урласан, хэмжээ тохируулна.",
+      "en": "925 silver wire twisted by hand, size adjustable."
+    },
+    "pricing": {
+      "Material (₮)": 22000,
+      "Handwork (₮)": 23000,
+      "Total Price (₮)": 45000,
+      "Making Time (h)": 5
+    },
+    "craft_details": {
+      "Main Material": {
+        "mn": "925 сорьцын цэвэр мөнгөн утас",
+        "en": "925 sterling silver wire"
+      },
+      "Origin": {
+        "mn": "Улаанбаатар студи",
+        "en": "Ulaanbaatar Studio"
+      },
+      "Care Instruction": {
+        "mn": "Мөнгө өнгөлөгч алчуураар арчина",
+        "en": "Polish with silver cleaning cloth"
+      }
+    }
+  },
+  {
+    "product_code": "R1_002",
+    "category": {
+      "mn": "Бөгж",
+      "en": "Rings"
+    },
+    "product_name": {
+      "mn": "Байгалийн чулуун бөгж",
+      "en": "Gemstone ring"
+    },
+    "description": {
+      "mn": "Сонгосон байгалийн чулууг гар аргаар бэхэлсэн.",
+      "en": "Chosen natural stone set by hand."
+    },
+    "pricing": {
+      "Material (₮)": 16000,
+      "Handwork (₮)": 22000,
+      "Total Price (₮)": 38000,
+      "Making Time (h)": 4
+    },
+    "craft_details": {
+      "Main Material": {
+        "mn": "Байгалийн оюу, номин чулуу",
+        "en": "Natural turquoise and lapis lazuli"
+      },
+      "Origin": {
+        "mn": "Улаанбаатар студи",
+        "en": "Ulaanbaatar Studio"
+      },
+      "Care Instruction": {
+        "mn": "Химийн бодисоос хамгаална",
+        "en": "Keep away from harsh chemicals"
+      }
+    }
+  },
+  {
+    "product_code": "F1_001",
+    "category": {
+      "mn": "Цэцгийн баглаа",
+      "en": "Flower bouquets"
+    },
+    "product_name": {
+      "mn": "Утсан сарнайн баглаа (7 ширхэг)",
+      "en": "Crochet rose bouquet (7 pcs)"
+    },
+    "description": {
+      "mn": "Хорхойн утсаар сүлжсэн, хэзээ ч гандахгүй сарнай.",
+      "en": "Crocheted roses that never fade."
+    },
+    "pricing": {
+      "Material (₮)": 25000,
+      "Handwork (₮)": 30000,
+      "Total Price (₮)": 55000,
+      "Making Time (h)": 6
+    },
+    "craft_details": {
+      "Main Material": {
+        "mn": "Сүүн хөвөн утас, гоёлын боодол",
+        "en": "Milk cotton yarn, kraft wrapping"
+      },
+      "Origin": {
+        "mn": "Улаанбаатар студи",
+        "en": "Ulaanbaatar Studio"
+      },
+      "Care Instruction": {
+        "mn": "Тоосыг хүйтэн агаараар үлээлгэнэ",
+        "en": "Dust lightly with cool air"
+      }
+    }
+  },
+  {
+    "product_code": "F1_002",
+    "category": {
+      "mn": "Цэцгийн баглаа",
+      "en": "Flower bouquets"
+    },
+    "product_name": {
+      "mn": "Даавуун алтанзул баглаа",
+      "en": "Fabric tulip bouquet"
+    },
+    "description": {
+      "mn": "Торгон даавуун дээр гараар дүрсэлсэн алтанзул цэцэг.",
+      "en": "Tulips shaped by hand from silk fabric."
+    },
+    "pricing": {
+      "Material (₮)": 30000,
+      "Handwork (₮)": 35000,
+      "Total Price (₮)": 65000,
+      "Making Time (h)": 8
+    },
+    "craft_details": {
+      "Main Material": {
+        "mn": "Торгон даавуу, уян иш",
+        "en": "Silk fabric, flexible stem wire"
+      },
+      "Origin": {
+        "mn": "Улаанбаатар студи",
+        "en": "Ulaanbaatar Studio"
+      },
+      "Care Instruction": {
+        "mn": "Чийгтэй орчноос хол байлгана",
+        "en": "Keep in a dry indoor space"
+      }
+    }
+  },
+  {
+    "product_code": "D1_001",
+    "category": {
+      "mn": "Баярын чимэглэл",
+      "en": "Holiday decor"
+    },
+    "product_name": {
+      "mn": "Угалз хээт ширээний чимэг (эсгий)",
+      "en": "Ugalz-pattern table decor (felt)"
+    },
+    "description": {
+      "mn": "Цагаан сарын ширээнд зориулсан гар хийцийн эсгий чимэг.",
+      "en": "Hand-made felt decor for the Tsagaan Sar table."
+    },
+    "pricing": {
+      "Material (₮)": 8000,
+      "Handwork (₮)": 14000,
+      "Total Price (₮)": 22000,
+      "Making Time (h)": 3
+    },
+    "craft_details": {
+      "Main Material": {
+        "mn": "Хонины ноосон эсгий, торгон утас",
+        "en": "Sheep wool felt, silk embroidery thread"
+      },
+      "Origin": {
+        "mn": "Улаанбаатар студи",
+        "en": "Ulaanbaatar Studio"
+      },
+      "Care Instruction": {
+        "mn": "Хуурай цэвэрлэгээгээр цэвэрлэнэ",
+        "en": "Dry clean only"
+      }
+    }
+  }
+]

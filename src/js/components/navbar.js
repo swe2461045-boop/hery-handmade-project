@@ -3,6 +3,7 @@ import { t, toggleLanguage } from "../i18n/i18n.js";
 const links = [
   { href: "#/home", icon: "🏠", key: "nav.home" },
   { href: "#/products", icon: "💍", key: "nav.products" },
+  { href: "#/search", icon: "🔍", key: "nav.search" },
   { href: "#/delivery", icon: "🚚", key: "nav.delivery" },
   { href: "#/promotions", icon: "🎁", key: "nav.promotions" },
   { href: "#/contact", icon: "✉️", key: "nav.contact" },
